@@ -32,11 +32,11 @@
   
   **Points System**
   * FR1-PS:
-  ** At level 1: A user should be rewarded 1 point for sticking to a habit for 1 day (and each additional day).
+    * At level 1: A user should be rewarded 1 point for sticking to a habit for 1 day (and each additional day).
   * FR2-PS:
-  ** At level 2: A user should be rewarded 2 points for sticking to a habit for each additional day.
+    * At level 2: A user should be rewarded 2 points for sticking to a habit for each additional day.
   * FR3-PS:
-  ** At level 3: A user should be rewarded 3 points for sticking to a habit for each additional day.
+    * At level 3: A user should be rewarded 3 points for sticking to a habit for each additional day.
   * FR4-PS: A user is eligable to get points for each habit only once a day.
 
 ## Technologies
