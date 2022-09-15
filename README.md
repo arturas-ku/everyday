@@ -1,7 +1,5 @@
 # EveryDay
 
-## Project Purpose
-
 ## Functional Requirements
 
 ## Technologies
