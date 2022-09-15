@@ -1,3 +1,4 @@
+
 # EveryDay
 
   EveryDay is an information system oriented to people who need assistance in sticking to existing and new habits in a playful way. 
@@ -7,10 +8,20 @@
   **Users Authentication and Authorization**
   * FR1-AU: A user should be able to register to the system using existing Google or Facebook account.
   * FR2-AU: A user should be able to login to the system using existing Google or Facebook account.
-  * FR3-AU: There should be 2 different system user groups: regular user, administrative user.
+  * FR3-AU: There should be 2 different system user groups: 
+    * Regular user
+    * Administrative user
 
   **Habits Management**
   * FR1-HM: A user should be able to create a new single habit.
+    * FR1.1-HM: When creating a new habit a user should be able to fill the following form fields:
+      * Title (required)
+        * Min characters: 10
+        * Max characters: 100
+      * Description (optional)
+        * Max characters: 500
+      * Days to develop habit
+        * Max duration (days): 100  
   * FR2-HM: A user should be able to edit a single habit.
   * FR3-HM: A user should be able to delete a single habit.
   * FR4-HM: A user should be able to see a single habit.
